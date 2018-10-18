@@ -1,2 +1,4 @@
 # hello-world
-My short desc for this repository..
+Terkku ihmiset!
+
+Mä teen tän harjootuksen.
